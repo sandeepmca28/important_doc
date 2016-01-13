@@ -1,0 +1,4 @@
+http://laravel-recipes.com/recipes/155/creating-a-text-input-field   (form fields)
+
+https://laravel.com/docs/4.2/routing    (url)
+
