@@ -1,3 +1,0 @@
-FTP Username: sandeep@refsnow.com
-FTP server: ftp.refsnow.com
-FTP & explicit FTPS port:  21
