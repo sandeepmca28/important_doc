@@ -10,3 +10,6 @@ http://www.codeheaps.com/php-programming/laravel-5-new-auth-generators-user-auth
 
 
 https://team.mobikasa.net/laravel-admin-base.git
+
+
+new record
